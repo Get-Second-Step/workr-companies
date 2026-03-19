@@ -2,6 +2,8 @@
 
 Default agent personas and instruction files for [Workr](https://workr.space) — the AI agent workspace for performance marketers.
 
+> Maintained by [Second Step](https://getsecondstep.com)
+
 ## Structure
 
 ```
